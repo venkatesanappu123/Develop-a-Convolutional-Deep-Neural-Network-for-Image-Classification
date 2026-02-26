@@ -7,7 +7,8 @@ To develop a convolutional deep neural network (CNN) for image classification an
 Include the Problem Statement and Dataset.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/979e7f8b-c93b-486c-9bbb-9071def832db" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -109,7 +110,8 @@ def train_model(model, train_loader, num_epochs=3):
 <img width="478" height="321" alt="{FEC99D75-9428-433D-BC7A-54F85E23975D}" src="https://github.com/user-attachments/assets/01eb4eaf-7c4e-44b6-ab3a-2331ca4b15d4" />
 
 ### New Sample Data Prediction
-![Uploading {876E264D-7F69-419C-8FE7-FEE744B39DF4}.png…]()
+<img width="494" height="561" alt="{876E264D-7F69-419C-8FE7-FEE744B39DF4}" src="https://github.com/user-attachments/assets/9724de64-929d-452f-81f8-bd9b81dabb9e" />
+
 
 ## RESULT
 The program Exucuted Successfully.
