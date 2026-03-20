@@ -5,6 +5,8 @@ To develop a convolutional deep neural network (CNN) for image classification an
 
 ##   PROBLEM STATEMENT AND DATASET
 The objective of this experiment is to develop a Convolutional Neural Network (CNN) using TensorFlow to perform image classification. The model will be trained on a standard dataset after preprocessing, and its performance will be evaluated using training and validation loss plots. Finally, the trained model will be tested on new handwritten scanned images to verify its accuracy on unseen data.
+<img width="896" height="155" alt="image" src="https://github.com/user-attachments/assets/86341df5-154c-4a15-a3a5-973bf6f1202b" />
+
 ## Neural Network Model
 <img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/979e7f8b-c93b-486c-9bbb-9071def832db" />
 
